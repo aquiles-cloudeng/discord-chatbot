@@ -23,7 +23,7 @@ async def on_member_join(member):
         f'Hola {member.name}, bienvenido a barredoras!'
     )
     channel = client.get_channel(389520903899185154)
-    await channel.send(f'Hola {member.name}, ME PREGUNTO QUE VERGA HACES ACA')
+    await channel.send(f'Hola {member.name}, ME PREGUNTO QUE VIENES A BUSCAR (ojala a mi)')
 
 @client.event
 async def on_message(message):
