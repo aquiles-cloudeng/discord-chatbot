@@ -31,20 +31,19 @@ async def on_message(message):
         return
 
     mensajerino = [
-        '@everyone vengan a jugar o les rompo la cabeza',
-        '@everyone los mato les juro que los mato',
-        '@everyone si no queres saber lo que es morir veni a jugar' 
+        '@everyone vengan a jugar por favor amigos',
+        '@everyone si no vienen a jugar me voy a calentar',
+        '@everyone si no quieren perecer les pido que se presenten inmediatamente para jugar' 
     ]
 
     juguemos = [
         'lo que sea por favor no aguanto mas',
         'hoy en dia jugamos TTT, GMOD, fall guys, entre otros',
-        'podes jugar con esta si queres',
         'cualquier cosa menos factorio'
     ]
 
     factorio = [
-        'pero que juego de mierda hermano',
+        'basta con este juego por favor',
         'che hay otros juegos sabes?',
         'we todo el dia con ese juego toy cansado hermano'
     ]
